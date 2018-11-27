@@ -2,20 +2,32 @@
 
 <html>
 <head>
-    <title>DataZombies: KoHQuest Legal</title>
+    <title>DataZombies: KoH Quests Legal</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <style>
 body {
         background: black;
         color: #d3d3d3;
         font-family: sans-serif;
-/*         font-size: xx-large; */
         padding: 10px;
-    }
+     }
     </style>
 </head>
 
 <body>
-    <p>piss off</p>
+    <p><i>Kingdoms of Heckfire</i> is the property of A Thinking Ape. The name, &ldquo;Kingdoms of Heckfire&rdquo;, and &ldquo;KoH&rdquo; are used under fair use.</p>
+
+    <p><i>KoH Quests</i> is Copyright &copy; <span id="dz"></span> DataZombies. All rights reserved.</p>
+    <script>
+    var firstYear = new Date(2018, 11, 01);
+        firstYear = firstYear.getFullYear();
+        var thisYear = (new Date()).getFullYear();
+        var copyrightDates = firstYear;
+
+        if(firstYear !== thisYear) {
+            copyrightDates = firstYear.toString().concat('&ndash;'+thisYear.toString()); 
+        }
+        document.getElementById('dz').innerHTML = copyrightDates;
+    </script>
 </body>
 </html>
