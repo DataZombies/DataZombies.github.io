@@ -3,6 +3,6 @@ Dragon Growth,Monster Slaying,Might Growth,Resource Gathering,Troop Training,Mon
 Construction,Dragon Growth,Might Growth,Research,Troop Training
 2017-11-21 v1
 Badland,Swamp,Grassland
-65,38,24,1
-4,24,29,1
-64,75,29,1
+650,380,240,1000
+400,240,290,1000
+640,750,290,1000
