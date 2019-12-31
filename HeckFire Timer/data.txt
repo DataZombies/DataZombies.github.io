@@ -1,8 +1,0 @@
-2019-12-19 v2
-Dragon Growth,Monster Slaying,Might Growth,Resource Gathering,Troop Training,Monster Slaying,Construction,Troop Training,Dragon Growth,Monster Slaying,Might Growth,Troop Training,Research
-Construction,Dragon Growth,Might Growth,Research,Troop Training
-2017-11-21 v1
-Badland,Swamp,Grassland
-65,38,24,100
-40,24,29,100
-64,75,29,100

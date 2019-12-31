@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Biomes</key>
+	<dict>
+		<key>Data</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Badland</string>
+				<key>Any Font Color Set</key>
+				<dict>
+					<key>Red</key>
+					<integer>1</integer>
+					<key>Green</key>
+					<integer>1</integer>
+					<key>Blue</key>
+					<integer>1</integer>
+					<key>Alpha</key>
+					<integer>1</integer>
+				</dict>
+				<key>Any Color Set</key>
+				<dict>
+					<key>Red</key>
+					<integer>1</integer>
+					<key>Green</key>
+					<integer>1</integer>
+					<key>Blue</key>
+					<integer>1</integer>
+					<key>Alpha</key>
+					<integer>1</integer>
+				</dict>
+				<key>Dark Font Color Set</key>
+				<dict>
+					<key>Red</key>
+					<real>0.667</real>
+					<key>Green</key>
+					<real>0.667</real>
+					<key>Blue</key>
+					<real>0.667</real>
+					<key>Alpha</key>
+					<integer>1</integer>
+				</dict>
+				<key>Dark Color Set</key>
+				<dict>
+					<key>Red</key>
+					<real>0.65</real>
+					<key>Green</key>
+					<real>0.38</real>
+					<key>Blue</key>
+					<real>0.24</real>
+					<key>Alpha</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Swamp</string>
+				<key>Any Font Color Set</key>
+				<dict>
+					<key>Red</key>
+					<integer>1</integer>
+					<key>Green</key>
+					<integer>1</integer>
+					<key>Blue</key>
+					<integer>1</integer>
+					<key>Alpha</key>
+					<integer>1</integer>
+				</dict>
+				<key>Any Color Set</key>
+				<dict>
+					<key>Red</key>
+					<integer>0</integer>
+					<key>Green</key>
+					<integer>0</integer>
+					<key>Blue</key>
+					<integer>0</integer>
+					<key>Alpha</key>
+					<integer>1</integer>
+				</dict>
+				<key>Dark Font Color Set</key>
+				<dict>
+					<key>Red</key>
+					<real>0.667</real>
+					<key>Green</key>
+					<real>0.667</real>
+					<key>Blue</key>
+					<real>0.667</real>
+					<key>Alpha</key>
+					<integer>1</integer>
+				</dict>
+				<key>Dark Color Set</key>
+				<dict>
+					<key>Red</key>
+					<real>0.4</real>
+					<key>Green</key>
+					<real>0.24</real>
+					<key>Blue</key>
+					<real>0.29</real>
+					<key>Alpha</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Grassland</string>
+				<key>Any Font Color Set</key>
+				<dict>
+					<key>Red</key>
+					<integer>0</integer>
+					<key>Green</key>
+					<integer>0</integer>
+					<key>Blue</key>
+					<integer>0</integer>
+					<key>Alpha</key>
+					<integer>1</integer>
+				</dict>
+				<key>Any Color Set</key>
+				<dict>
+					<key>Red</key>
+					<integer>0</integer>
+					<key>Green</key>
+					<integer>0</integer>
+					<key>Blue</key>
+					<integer>0</integer>
+					<key>Alpha</key>
+					<integer>1</integer>
+				</dict>
+				<key>Dark Font Color Set</key>
+				<dict>
+					<key>Red</key>
+					<real>0.667</real>
+					<key>Green</key>
+					<real>0.667</real>
+					<key>Blue</key>
+					<real>0.667</real>
+					<key>Alpha</key>
+					<integer>1</integer>
+				</dict>
+				<key>Dark Color Set</key>
+				<dict>
+					<key>Red</key>
+					<real>0.64</real>
+					<key>Green</key>
+					<real>0.75</real>
+					<key>Blue</key>
+					<real>0.29</real>
+					<key>Alpha</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+		</array>
+		<key>Version</key>
+		<string>2017-11-21 v1</string>
+	</dict>
+	<key>Quests</key>
+	<dict>
+		<key>Compication Icons</key>
+		<dict>
+			<key>Construction</key>
+			<string></string>
+			<key>Dragon Growth</key>
+			<string></string>
+			<key>Might Growth</key>
+			<string></string>
+			<key>Monster Slaying</key>
+			<string></string>
+			<key>Resource Gathering</key>
+			<string></string>
+			<key>Troop Training</key>
+			<string></string>
+		</dict>
+		<key>Count</key>
+		<integer>4</integer>
+		<key>Data</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Dragon Growth</string>
+				<key>Speedup</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Monster Slaying</string>
+				<key>Speedup</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Might Growth</string>
+				<key>Speedup</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Resource Gathering</string>
+				<key>Speedup</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Troop Training</string>
+				<key>Speedup</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Monster Slaying</string>
+				<key>Speedup</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Construction</string>
+				<key>Speedup</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Troop Training</string>
+				<key>Speedup</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Dragon Growth</string>
+				<key>Speedup</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Monster Slaying</string>
+				<key>Speedup</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Might Growth</string>
+				<key>Speedup</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Troop Training</string>
+				<key>Speedup</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Research</string>
+				<key>Speedup</key>
+				<true/>
+			</dict>
+		</array>
+		<key>Version</key>
+		<string>2019-12-19 v2</string>
+	</dict>
+</dict>
+</plist>
