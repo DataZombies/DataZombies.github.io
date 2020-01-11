@@ -108,11 +108,11 @@
 				<key>Any Font Color Set</key>
 				<dict>
 					<key>Red</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Green</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Blue</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Alpha</key>
 					<integer>1</integer>
 				</dict>
